@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+gradio
+controlnet-aux
+mediapipe
+opencv-python
+pillow
+numpy
